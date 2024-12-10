@@ -1,94 +1,172 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://quartz.jzhao.xyz/Act-of-Hubris-%E2%9A%92%EF%B8%8F</loc>
-    <lastmod>2024-10-24T19:17:12.049Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.641Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Gameplay/Actions-and-Turns</loc>
-    <lastmod>2024-04-15T18:14:48.909Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Breaking-Point</loc>
+    <lastmod>2024-12-10T21:57:36.736Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Actions-timings</loc>
+    <lastmod>2024-12-05T20:50:24.641Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Casting-a-spell-%E2%9A%92%EF%B8%8F</loc>
-    <lastmod>2024-04-15T17:51:23.800Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.641Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Combat/Actions-Cheat-Sheet</loc>
+    <lastmod>2024-12-07T14:50:06.668Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Experience</loc>
-    <lastmod>2024-10-24T21:15:53.739Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Gnosis-%E2%9A%92%EF%B8%8F</loc>
-    <lastmod>2024-10-24T17:51:37.601Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Mana</loc>
-    <lastmod>2024-10-24T17:34:54.617Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Praxis</loc>
-    <lastmod>2024-09-26T22:01:51.721Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Rotes</loc>
-    <lastmod>2024-09-26T21:53:28.232Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Sympathy</loc>
-    <lastmod>2024-10-24T20:13:11.434Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/</loc>
+    <lastmod>2024-12-07T16:47:15.080Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F-Earthquake</loc>
+    <lastmod>2024-12-10T20:58:51.638Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F-Flooded</loc>
+    <lastmod>2024-12-10T20:58:51.641Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F-Heavy-Rain</loc>
+    <lastmod>2024-12-10T20:58:51.642Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F-Heavy-Winds</loc>
+    <lastmod>2024-12-10T20:58:51.644Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F-Ice</loc>
+    <lastmod>2024-12-10T20:58:51.645Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F%F0%9F%91%A4-Extreme-Cold</loc>
+    <lastmod>2024-12-10T20:58:51.639Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%8F%9E%EF%B8%8F%F0%9F%91%A4-Extreme-Heat</loc>
+    <lastmod>2024-12-10T20:58:51.640Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Arm-Wrack</loc>
+    <lastmod>2024-12-10T20:58:51.632Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Beaten-Down</loc>
+    <lastmod>2024-12-10T20:58:51.633Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Blinded</loc>
+    <lastmod>2024-12-10T20:58:51.633Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Blizzard</loc>
+    <lastmod>2024-12-10T20:58:51.635Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Deafened</loc>
+    <lastmod>2024-12-10T20:58:51.636Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Drugged</loc>
+    <lastmod>2024-12-10T20:58:51.637Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Immobilised</loc>
+    <lastmod>2024-12-10T20:58:51.646Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Insane</loc>
+    <lastmod>2024-12-10T20:58:51.647Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Insensate</loc>
+    <lastmod>2024-12-10T20:58:51.649Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Knocked-Down</loc>
+    <lastmod>2024-12-10T20:58:51.650Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Leg-Wrack</loc>
+    <lastmod>2024-12-10T20:58:51.651Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Poisoned</loc>
+    <lastmod>2024-12-10T20:58:51.652Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Poor-Light</loc>
+    <lastmod>2024-12-10T20:58:51.653Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Sick</loc>
+    <lastmod>2024-12-10T20:58:51.655Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Tilts/%F0%9F%91%A4-Stunned</loc>
+    <lastmod>2024-12-10T20:58:51.630Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Willpower</loc>
-    <lastmod>2024-10-24T21:42:04.963Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.642Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Wisdom</loc>
-    <lastmod>2024-09-26T23:08:00.962Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.643Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Gameplay/Mechanics/Withstand</loc>
-    <lastmod>2024-09-26T21:29:27.557Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.643Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Lore/Orders/Atlantean-Diamond/About-the-Atlantean-Diamond</loc>
-    <lastmod>2024-04-15T05:33:37.518Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.643Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Lore/Orders/Atlantean-Diamond/Adamantine-Arrow</loc>
-    <lastmod>2024-04-15T05:37:13.399Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.643Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Lore/Paths/Moros</loc>
-    <lastmod>2024-04-15T02:40:46.241Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.644Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Death</loc>
-    <lastmod>2024-04-15T02:40:46.242Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.644Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Fate</loc>
-    <lastmod>2024-04-15T02:40:46.243Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.644Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Forces</loc>
-    <lastmod>2024-04-15T02:40:46.244Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Life</loc>
-    <lastmod>2024-04-15T02:40:46.244Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Matter</loc>
-    <lastmod>2024-04-15T02:40:46.245Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Mind</loc>
-    <lastmod>2024-04-15T02:40:46.245Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Prime</loc>
-    <lastmod>2024-04-15T02:40:46.246Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Space</loc>
-    <lastmod>2024-04-15T02:40:46.246Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Spirit</loc>
-    <lastmod>2024-04-15T02:40:46.247Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.645Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Arcanas/Time</loc>
-    <lastmod>2024-04-15T02:40:46.247Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.646Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Hallow</loc>
-    <lastmod>2024-10-24T18:55:25.775Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.646Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Paradox</loc>
-    <lastmod>2024-04-15T02:40:46.248Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.646Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Magic--and--Concepts/Practices</loc>
-    <lastmod>2024-04-15T02:40:46.249Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.646Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seers-of-the-Throne</loc>
-    <lastmod>2024-10-24T22:16:47.312Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.646Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Tilts</loc>
+    <lastmod>2024-12-10T21:00:06.745Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Translations</loc>
-    <lastmod>2024-10-24T18:26:53.073Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.647Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2024-10-24T19:39:32.241Z</lastmod>
+    <lastmod>2024-12-05T20:50:24.767Z</lastmod>
   </url></urlset>
